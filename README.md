@@ -47,3 +47,14 @@ service or quality
 <br />
 
 #
+
+
+  ###
+
+  * [Styled Icons (Feather Icons)](https://styled-icons.js.org)
+  * [Styled Media Query](https://github.com/morajabi/styled-media-query)
+  * [Framer Motion](https://framer.com/motion/)
+  * [HTML Prettify](https://github.com/Dmc0125/html-prettify)
+  * [React Share](https://github.com/nygardk/react-share)
+  * [Prismjs](https://prismjs.com)
+  * [UUID](https://www.npmjs.com/package/uuid)
