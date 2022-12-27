@@ -1,6 +1,7 @@
 # 🏄‍♂️ Golam Rabbi Tonmoy
 
 **`Full Stack Engineer`**
+###
 Detail oriented, self-learner & professional with experience in
 Problem Solving, Software Development, Leading Team &
 Management. Seeking to take the next carrier step with respected
@@ -9,7 +10,7 @@ ability to lead team to process large volumes without compromising
 service or quality 
 
 <div>
-  <a href="https://github.com/tonmoyDeveloperBD/tonmoyDeveloperBD/raw/master/tonmoy-cv.pdf">Download CV</a>
+  <a href="https://github.com/tonmoyDeveloperBD/tonmoyDeveloperBD/tonmoy-cv.pdf">Download CV</a>
 </div>
 
 <div align="center">
