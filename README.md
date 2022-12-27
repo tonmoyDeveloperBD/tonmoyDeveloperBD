@@ -1,7 +1,16 @@
 # 🏄‍♂️ Golam Rabbi Tonmoy
 
 **`Full Stack Engineer`**
+Detail oriented, self-learner & professional with experience in
+Problem Solving, Software Development, Leading Team &
+Management. Seeking to take the next carrier step with respected
+organisation dedicated to world class quality. Born leader with the
+ability to lead team to process large volumes without compromising
+service or quality 
 
+<div>
+  <a href="https://github.com/kingRayhan/kingrayhan/raw/master/Md.Raihan-Resume.pdf">Download CV</a>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=tonmoyDeveloperBD" height="150" alt="stats graph"  />
