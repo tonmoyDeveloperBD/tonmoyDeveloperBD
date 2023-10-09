@@ -50,7 +50,7 @@ service or quality
 
 
 ### 😬 Projects
-* [Safewheel]([https://www.ekshop.gov.bd](https://play.google.com/store/apps/details?id=com.safewheel.xyz.safewheel))
+* [Safewheel](https://play.google.com/store/apps/details?id=com.safewheel.xyz.safewheel)
 * [EkShop](https://www.ekshop.gov.bd)
 * [Swap](https://swap.com.bd/)
 * [Connect DoICT](https://play.google.com/store/apps/details?id=com.connectdoict.connectdoict)
