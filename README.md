@@ -10,7 +10,7 @@ ability to lead team to process large volumes without compromising
 service or quality 
 
 <div>
-  <a href="https://github.com/tonmoyDeveloperBD/tonmoyDeveloperBD/full-stack-developer.pdf">Download CV</a>
+  <a href="https://drive.google.com/file/d/11k9wOp5fILsuQv-PEQI7ltodVTGYMMLo/view?usp=sharing">Resume</a>
 </div>
 
 
