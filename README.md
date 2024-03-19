@@ -2,12 +2,7 @@
 
 **`Full Stack Engineer`**
 ###
-Detail oriented, self-learner & professional with experience in
-Problem Solving, Software Development, Leading Team &
-Management. Seeking to take the next carrier step with respected
-organisation dedicated to world class quality. Born leader with the
-ability to lead team to process large volumes without compromising
-service or quality 
+Highly motivated and adaptable full-stack developer with 8 years of experience building innovative and scalable applications. Proven ability to lead and deliver complex projects across diverse technologies and platforms, including expertise in microservices architecture and DevOps practices with AWS, GCP, Azure, Kubernetes, and Docker. Passionate about creating user-centric experiences, driving business value through efficient and maintainable code, and streamlining development workflows with automation.
 
 <div>
   <a target="_blank" href="https://drive.google.com/file/d/1vbTMXsKCGsUYD8McqmMiELwI-f3e2Lku/view?usp=sharing">Resume</a>
